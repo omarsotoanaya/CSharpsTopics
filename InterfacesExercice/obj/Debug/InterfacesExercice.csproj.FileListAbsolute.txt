@@ -1,0 +1,6 @@
+c:\users\omar.soto\documents\visual studio 2015\Projects\InterfacesExercice\InterfacesExercice\bin\Debug\InterfacesExercice.exe.config
+c:\users\omar.soto\documents\visual studio 2015\Projects\InterfacesExercice\InterfacesExercice\bin\Debug\InterfacesExercice.exe
+c:\users\omar.soto\documents\visual studio 2015\Projects\InterfacesExercice\InterfacesExercice\bin\Debug\InterfacesExercice.pdb
+c:\users\omar.soto\documents\visual studio 2015\Projects\InterfacesExercice\InterfacesExercice\obj\Debug\InterfacesExercice.csprojResolveAssemblyReference.cache
+c:\users\omar.soto\documents\visual studio 2015\Projects\InterfacesExercice\InterfacesExercice\obj\Debug\InterfacesExercice.exe
+c:\users\omar.soto\documents\visual studio 2015\Projects\InterfacesExercice\InterfacesExercice\obj\Debug\InterfacesExercice.pdb
