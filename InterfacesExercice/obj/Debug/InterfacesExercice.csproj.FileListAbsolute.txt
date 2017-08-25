@@ -7,3 +7,6 @@ c:\users\omar.soto\documents\visual studio 2015\Projects\InterfacesExercice\Inte
 C:\Users\omar.soto\Documents\GitHub\TeamCityIntegration\InterfacesExercice\bin\Debug\InterfacesExercice.exe.config
 C:\Users\omar.soto\Documents\GitHub\TeamCityIntegration\InterfacesExercice\obj\Debug\InterfacesExercice.exe
 C:\Users\omar.soto\Documents\GitHub\TeamCityIntegration\InterfacesExercice\obj\Debug\InterfacesExercice.pdb
+C:\Users\omar.soto\Documents\GitHub\TeamCityIntegration\InterfacesExercice\bin\Debug\InterfacesExercice.exe
+C:\Users\omar.soto\Documents\GitHub\TeamCityIntegration\InterfacesExercice\bin\Debug\InterfacesExercice.pdb
+C:\Users\omar.soto\Documents\GitHub\TeamCityIntegration\InterfacesExercice\obj\Debug\InterfacesExercice.csprojResolveAssemblyReference.cache
