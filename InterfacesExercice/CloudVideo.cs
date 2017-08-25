@@ -10,7 +10,7 @@ namespace InterfacesExercice
     {
         public void Execute()
         {
-            Console.WriteLine("Cloud Video streaming");
+            Console.WriteLine("Cloud streaming");
         }
     }
 }
