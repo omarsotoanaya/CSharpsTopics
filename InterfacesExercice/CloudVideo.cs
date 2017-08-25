@@ -10,7 +10,7 @@ namespace InterfacesExercice
     {
         public void Execute()
         {
-            Console.WriteLine("Cloud video Notification");
+            Console.WriteLine("Cloud stream Notification");
         }
     }
 }
