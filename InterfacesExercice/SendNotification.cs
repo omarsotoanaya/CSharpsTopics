@@ -10,7 +10,7 @@ namespace InterfacesExercice
     {
         public void Execute()
         {
-            Console.WriteLine("sending more notification");
+            Console.WriteLine("sending notification");
         }
     }
 }
